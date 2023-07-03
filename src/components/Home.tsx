@@ -4,7 +4,6 @@ import '../styles/home.css';
 
 
 function Home(){
- 
     return(
         <div className='Home'>
             <h2 >Welcome to Home Page</h2>
